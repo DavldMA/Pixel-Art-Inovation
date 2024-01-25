@@ -16,9 +16,6 @@ This is my first submission on github, and I am pretty new at coding, so please 
 - :floppy_disk: Saves the files used in the previous execution on the files
 
 # 💻 Tutorial
-Please keep in mind that I am not experienced enough to talk about this, but I will do my best, if I am missing something tell me!
-
-## Usage
 After downloading the files and uploading it to your editor, you can execute it as a normal python file, once it already have some default files, it will produce 6 outputs, with a random sprite with different colors and different sprites. 
 
 *Future example image*
